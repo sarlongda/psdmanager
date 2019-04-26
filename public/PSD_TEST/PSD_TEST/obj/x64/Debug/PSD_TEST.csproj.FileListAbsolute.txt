@@ -1,0 +1,13 @@
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\PSD_TEST.exe.config
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\PSD_TEST.exe
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\PSD_TEST.pdb
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\Aurigma.GraphicsMill.dll
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\Aurigma.GraphicsMill.Templates.dll
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\DotNetZip.dll
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\Newtonsoft.Json.dll
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\Aurigma.GraphicsMill.xml
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\DotNetZip.xml
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\bin\x64\Debug\Newtonsoft.Json.xml
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\obj\x64\Debug\PSD_TEST.csprojResolveAssemblyReference.cache
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\obj\x64\Debug\PSD_TEST.exe
+F:\01_WORK\09_PSD\C#\PSD_TEST\PSD_TEST\obj\x64\Debug\PSD_TEST.pdb
