@@ -69,8 +69,8 @@ class ArticleController extends Controller
 
         $card = Card::findOrFail($id);
 
-        $psd_exist = file_exists('c:\xampp\htdocs\psdmanager\public\PSD_Manager\Articles\Template1\010001\010001_tmp_1.psd') & file_exists('f:\htdocs\psdmanager\public\PSD_Manager\Articles\Template1\010001\010001_tmp_2.psd');
-        $prev_exist = file_exists('c:\xampp\htdocs\psdmanager\public\PSD_Manager\Articles\Template1\010001\010001_prev_1.png') & file_exists('f:\htdocs\psdmanager\public\PSD_Manager\Articles\Template1\010001\010001_prev_1.png');
+        $psd_exist = file_exists('c:/xampp/htdocs/psdmanager/public/PSD_Manager/Articles/Template1/'.$card->article_id.'/'.$card->article_id.'_tmp_1.psd') & file_exists('c:/xampp/htdocs/psdmanager/public/PSD_Manager/Articles/Template1/'.$card->article_id.'/'.$card->article_id.'_tmp_2.psd');
+        $prev_exist = file_exists('c:/xampp/htdocs/psdmanager/public/PSD_Manager/Articles/Template1/'.$card->article_id.'/'.$card->article_id.'_prev_1.png') & file_exists('c:/xampp/htdocs/psdmanager/public/PSD_Manager/Articles/Template1/'.$card->article_id.'/'.$card->article_id.'_prev_2.png');
 
         return view('articles/edit-card', compact('allCategories', 'card', 'psd_exist', 'prev_exist'));
     }
